@@ -2,3 +2,4 @@ wallet.json
 /node_modules
 createWalletWithP2WPKH.json
 createWalletP2PKH.json
+createWalletWithP2PK.json
